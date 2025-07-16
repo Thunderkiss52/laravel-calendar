@@ -7,7 +7,7 @@
         "laravel/framework": "^11.0",
         "spatie/laravel-data": "^4.8",
         "spatie/laravel-package-tools": "^1.18",
-        "Thunderkiss52/laravel-eloquent-authorable": "dev-master",
+        "Thunderkiss52/laravel-eloquent-authorable": "dev-main",
         "Thunderkiss52/laravel-forms": "dev-main"
     },
     "repositories": [
